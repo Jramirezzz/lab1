@@ -1,0 +1,25 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "creacion de laboratorio",
+  "main": "lab1.js",
+  "scripts": {
+    "start": "node lab1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jramirezzz/lab1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jramirezzz/lab1/issues"
+  },
+  "homepage": "https://github.com/Jramirezzz/lab1#readme",
+  "dependencies": {
+    "npm-matematicas": "^1.0.1"
+  },
+  "devDependencies": {
+    "xorshift": "^1.2.0"
+  }
+}
